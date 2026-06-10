@@ -1,3 +1,4 @@
+//gcc tabuada.c -o paidesanto
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
